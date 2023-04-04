@@ -1,4 +1,4 @@
-import type { TimelineAnimationOptions, TimelineEvents } from 'vis-timeline/types';
+import type { TimelineAnimationOptions, TimelineEvents } from '@brivo/vis-timeline/types';
 
 export type TimelineEventsWithMissing = TimelineEvents | 'dragover' | 'markerchange' | 'markerchanged';
 export type TimelineEventHandler =

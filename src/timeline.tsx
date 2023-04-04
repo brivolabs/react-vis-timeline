@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { DataSet } from 'vis-data/esnext';
-import { Timeline as VisTimelineCtor } from 'vis-timeline/esnext';
+import { Timeline as VisTimelineCtor } from '@brivo/vis-timeline/esnext';
 import type {
 	DateType,
 	IdType,
@@ -9,8 +9,8 @@ import type {
 	TimelineGroup,
 	TimelineItem,
 	TimelineOptions
-} from 'vis-timeline/types';
-import 'vis-timeline/styles/vis-timeline-graph2d.min.css';
+} from '@brivo/vis-timeline/types';
+import '@brivo/vis-timeline/styles/vis-timeline-graph2d.min.css';
 
 import _difference from 'lodash/difference';
 import _intersection from 'lodash/intersection';
