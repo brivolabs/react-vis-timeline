@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { DataSet } from 'vis-data/esnext';
+import { DataSet } from 'vis-data/peer'; //modified from original
 import { Timeline as VisTimelineCtor } from '@brivo/vis-timeline/esnext';
 import type {
 	DateType,
