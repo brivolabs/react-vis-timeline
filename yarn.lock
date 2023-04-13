@@ -1018,10 +1018,10 @@
     "@babel/helper-validator-identifier" "^7.19.1"
     to-fast-properties "^2.0.0"
 
-"@brivo/vis-timeline@1.0.0-4":
-  version "1.0.0-4"
-  resolved "https://artifact-dev.us-east-1.dev.brivo.net/artifactory/api/npm/brivo-npm-internal/@brivo/vis-timeline/-/@brivo/vis-timeline-1.0.0-4.tgz#04ec022d70a8cc29664d6f06ab34572e9977694e"
-  integrity sha1-BOwCLXCozClmTW8GqzRXLpl3aU4=
+"@brivo/vis-timeline@1.0.0":
+  version "1.0.0"
+  resolved "https://artifact-dev.us-east-1.dev.brivo.net/artifactory/api/npm/brivo-npm-internal/@brivo/vis-timeline/-/@brivo/vis-timeline-1.0.0.tgz#d0cae2a68978608b400782a710ed0c20ef712920"
+  integrity sha1-0Mripol4YItAB4KnEO0MIO9xKSA=
 
 "@egjs/hammerjs@^2.0.17":
   version "2.0.17"
